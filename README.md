@@ -75,10 +75,10 @@ Discovered trends influencing purchase behavior
 Provided actionable business recommendations
 
 ▶️ How to Run This Project
-Step 1: Clone the repository
+Step 1: Clone the repository:
 git clone <repository-link>
 
-Step 2: Install required Python libraries
+Step 2: Install required Python libraries:
 pip install pandas numpy matplotlib seaborn mysql-connector-python sqlalchemy
 
 Step 3: Run Jupyter Notebook
@@ -89,7 +89,7 @@ Cleaning
 EDA
 
 Step 4: MySQL Setup
-Import cleaned dataset into MySQL database
+Import cleaned dataset into MySQL database:
 Run provided SQL scripts
 
 Step 5: Power BI Dashboard
